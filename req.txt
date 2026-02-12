@@ -1,0 +1,6 @@
+pip install streamlit
+pip install pandas
+pip install numpy
+pip install sentence-transformers
+pip install torch  # required for sentence-transformers
+pip install openai
