@@ -1,6 +1,6 @@
 streamlit
+sentence-transformers
 pandas
 numpy
-sentence-transformers
 torch
 openai
